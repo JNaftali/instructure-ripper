@@ -1,0 +1,9 @@
+{
+  "name": "phase-0-rip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nightmare": "^2.10.0"
+  }
+}
